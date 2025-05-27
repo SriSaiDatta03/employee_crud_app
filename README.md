@@ -75,6 +75,7 @@ python main.py
 
 ## 🖥️ User Interface
 
+![Employee_CRUD](https://github.com/user-attachments/assets/4543df0f-023d-4c5a-894d-cf17bbcb33b8)
 
 
 * **Simple and intuitive layout**
